@@ -76,6 +76,7 @@ Sources/Debug.swift   自测与界面快照入口
 make_icon.swift       生成应用图标
 build.sh              编译、打包、签名
 DEVLOG.md             开发记录
+LICENSE               MIT 许可证
 ```
 
 可调参数（长按时长、连按时间窗等）在 `Sources/main.swift` 开头。
@@ -91,3 +92,7 @@ DEVLOG.md             开发记录
 ```
 
 开发过程与设计取舍见 [DEVLOG.md](DEVLOG.md)。
+
+## 许可证
+
+[MIT](LICENSE)
